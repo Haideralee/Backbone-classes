@@ -1,0 +1,21 @@
+high order function.
+    function are pass in argument.this function called high order function.
+
+soodo -- css .
+Backbone is a library.
+cdn stand for .
+content distributor network.
+
+backbone dependencies.
+1- jQuery.js .
+2- underscore.js .
+
+approaches..
+1- procedures/regular.
+2- prototype.
+3- mvc (model(js data) view(html) controller(comunication with model and view))
+backbone is a MV (model views)
+
+var Myview(Child constructor) = Backbone.view.extend() (Parent constructor);
+
+var myview = new MyView();
